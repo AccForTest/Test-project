@@ -1,10 +1,8 @@
-#include <iostream>
-
-using namespace std;
+#include "test.h"
 
 int main() {
 
-	cout<<"Hello wordl\n";
+	displayGreetingMessage();
 
 	return 0;
 }
